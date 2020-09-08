@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hello Bulma!</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.15.2/cytoscape.min.js" integrity="sha512-PqivlaNWoXvHYlvku80fbWO/yBiRmGhISj5uVdAodyqsGprDcVZy6aecJDVNE0fIIE/YeiOzp5yJTR5ZjFlR4Q==" crossorigin="anonymous"></script>
+   
+
+  </head>
+  <style>
+      .inner{
+          margin-left: 20px;
+
+      }
+      #cy {
+  width: 100%;
+  height: 90vh;
+  display: block;
+}
+.collapsed-child { opacity: 0; }
+  </style>
+  <body>
+    <div class="columns">
+        <div class="column is-3 has-background-light ">
+            <h1 style="text-align:center;" class="title"> Document Store</h1>
+            <form method="POST" action="" style="margin:20px">
+              <div class="field has-addons" style="margin-left: 15px;">
+                  <div class="control">
+                    <input class="input" type="text" placeholder="Find a repository" name="document_search">
+                  </div>
+                  <div class="control">
+                    <button class="button is-info">
+                      Search
+                    </button>
+                  </div>
+              </div>
+            </form>
+            <div class="inner">
+             
+              <ul>
+                <li class="box"><a href="/store/">MAP</a></li>
+                {% for i in data%}
+                <li class="box"><a onclick="show({{[i['idx']]}})">{{i['title']}}</a></li>
+                
+                {%endfor%}
+              </ul>
+            </div>
+        </div>
+        <div class="column" style="padding: 20px; no-scroll" id="map">
+          <div class="columns">
+            <form action="keywords" method="POST" style="width: 100%;">
+            <div class="column ">
+              <div class="field is-grouped">
+                
+                <p class="control is-expanded">
+                  <input class="input" type="text" placeholder="Find a repository" id="selected" name="selected">
+                </p>
+                <p class="control">
+                  <button class="button is-info">
+                    Search
+                  </button>
+                </p>
+              
+              </div>
+            </div>
+          </form>
+          </div>
+          <div class="columns">
+            <div class="column">
+              <div id="cy"></div>
+            </div>
+          </div>
+        </div>
+        {%for i in data%}
+        <div class="column" id="{{i['idx']}}"style="padding: 20px;display:none;">
+          <div class="container">
+            <div class="columns">
+              <div class="column">
+                <div class="box">
+                  <h1 class="title">
+                    {{i["title"]}}
+                  </h1>
+                </div>
+              </div>
+            </div>
+            <div class="columns">
+              <div class="column">
+                <div class="box">
+                  <h2 class="subtitle">Named Entities</h2>
+                <p>
+                  {% for ent in i['entity']%}
+                  <span class="tag is-danger">{{ent}}</span>, 
+                  {%endfor%}
+                </p>
+                </div>
+              </div>
+  
+            </div>
+            <div class="columns">
+              <div class="column"> 
+                <div class="box">
+                  <h2 class="subtitle">KeyWords</h2>
+                <p>
+                  {% for i in i['keywords']%}
+                  <span class="tag is-success">{{i}}</span>, 
+                  {%endfor%}
+                </p>
+                </div>
+              </div>
+              
+            </div>
+            <div class="columns">
+              <div class="column">
+                <div class="box">
+                  {{i["summary"]}}
+                  </div>
+              </div>
+              
+            </div>
+          </div>
+          
+    
+          
+        </div>
+        {%endfor%}
+    </div>
+  </body>
+  <script>
+    nodes_data={{nodes|safe}}
+    edge_list={{edges|safe}}
+    idmmap={{mapping|safe}}
+    console.log(nodes_data)
+    console.log(edge_list)
+    parentChild={{parentChild|safe}}
+    allnodes=[]
+    for (node in nodes_data){
+      
+      allnodes.push({data:nodes_data[node]})
+    }
+    
+    alledges=[]
+    for (edge in edge_list){
+
+      alledges.push({data:edge_list[edge]})
+    }
+    
+    var cy =cytoscape({
+  container: document.getElementById('cy'),
+  style: [
+    {
+      selector: 'node',
+      style: {
+        'background-color': 'data(faveColor)',
+        'label': 'data(name)',
+        'width':'data(size)',
+        'height':'data(size)',
+        'shape': 'data(shape)'
+      }
+    },
+    
+
+    // , ...
+  ],
+  elements: {
+    nodes: allnodes,
+    edges:alledges,
+  },
+
+  layout: {
+    name: 'grid',
+    animate: true,
+    rows: allnodes.length/6
+
+  },
+});
+cy.on('click', 'node', function(evt){
+  if (this.scratch().restData == null) {
+       // Save node data and remove
+       this.scratch({
+            restData: this.successors().targets().remove()
+       });
+    } else {
+       // Restore the removed nodes from saved data
+       this.scratch().restData.restore();
+       this.scratch({
+            restData: null
+       });
+    }
+      console.log( 'clicked ' + idmmap[this.id()] ,parentChild[this.id()]);
+      if (parentChild[this.id()]!="parent"){
+        inputv=document.getElementById("selected").value
+      
+        document.getElementById("selected").value=inputv+idmmap[this.id()]+" ,"
+      }
+      
+      
+});
+last_show="map"
+function show(idx){
+  document.getElementById(idx[0]).style.display="flex"
+  document.getElementById(last_show).style.display="none"
+  last_show=idx[0]
+}
+
+  </script>
+</html>

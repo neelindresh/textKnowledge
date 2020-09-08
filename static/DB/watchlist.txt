@@ -1,0 +1,177 @@
+rd_2,Top Trends of Graph Machine Learning in 2020,towardsdatascience,Machine learing,Interesting,Read,https://towardsdatascience.com/top-trends-of-graph-machine-learning-in-2020-1194175351a3
+rd_3,Computer Vision Part 7: Instance Segmentation,medium,Computer vision,Interesting,Read,https://medium.com/@ilias_mansouri/computer-vision-part-7-instance-segmentation-578998ea6196
+wt_1,Anupam Kher Amazing Respectfull Tribute To Rishi Ji And Irrfan Khan,youtube,Entertainment,Interesting,Watch,https://www.youtube.com/watch?v=BPM0PdCtzGI
+rd_4,How to Gain State-Of-The-Art Result on Tabular Data with Deep Learning and Embedding Layers,towardsdatascience,Deep learning,Interesting,Read,https://towardsdatascience.com/how-to-gain-state-of-the-art-result-on-tabular-data-with-deep-learning-and-embedding-layers-d1eb6b83c52c
+rd_5,Deep Learning for Tabular Data using PyTorch,towardsdatascience,Pytorch,Extremely Interesting,Read,https://towardsdatascience.com/deep-learning-for-tabular-data-using-pytorch-1807f2858320
+rd_6,Medical Image Analysis using probabilistic layers and Grad-Cam,towardsdatascience,Image processingas,Very interesting,Read,https://towardsdatascience.com/medical-image-analysis-using-probabilistic-layers-and-grad-cam-42cc0118711f
+rd_7,Address class imbalance easily with Pytorch,towardsdatascience,Pytorch,Interesting,Read,https://towardsdatascience.com/address-class-imbalance-easily-with-pytorch-e2d4fa208627
+rd_8,Building your own object detector — PyTorch vs TensorFlow and how to even get started?,towardsdatascience,object detection,Interesting,Read,https://towardsdatascience.com/building-your-own-object-detector-pytorch-vs-tensorflow-and-how-to-even-get-started-1d314691d4ae
+rd_9,Space Science with Python — Setup and first steps,towardsdatascience,spaceAI,Interesting,Read,https://towardsdatascience.com/space-science-with-python-setup-and-first-steps-1-8551334118f6
+rd_10,Space Science with Python — A look at Kepler’s first law,towardsdatascience,Spaceai,Very interesting,Read,https://towardsdatascience.com/space-science-with-python-2-a-look-at-keplers-first-law-84caa6c75a35
+rd_11,BLiTZ — A Bayesian Neural Network library for PyTorch,towardsdatascience,Bayesian NN,Extremely Interesting,Read,https://towardsdatascience.com/blitz-a-bayesian-neural-network-library-for-pytorch-82f9998916c7
+rd_12,Do it for the ‘gram: Instagram-style Caption Generator,towardsdatascience,Image processingas,Very interesting,Read,https://towardsdatascience.com/do-it-for-the-gram-instagram-style-caption-generator-4e7044766e34
+rd_13,The Open Cities AI Challenge,towardsdatascience,Image Segmentation,Extremely Interesting,Read,https://towardsdatascience.com/the-open-cities-ai-challenge-3d0b35a721cc?source=extreme_main_feed---------33-58--------------------686d7164_4670_4c63_a69c_4e9035ad208e--4
+rd_14,Anomaly Detection made simple,towardsdatascience,anomaly detection,Very interesting,Read,https://towardsdatascience.com/anomaly-detection-made-simple-70775c914377
+rd_15,Investigating Differentiable Neural Architecture Search for Scientific Datasets,towardsdatascience,Deep learning,Very interesting,Read,https://towardsdatascience.com/investigating-differentiable-neural-architecture-search-for-scientific-datasets-62899be8714e
+rd_16,StyleGAN v2: notes on training and latent space exploration,towardsdatascience,GAN,Interesting,Read,https://towardsdatascience.com/stylegan-v2-notes-on-training-and-latent-space-exploration-e51cf96584b3
+rd_18,OCR with Python  OpenCV and PyTesseract,medium,Image processingas,Interesting,Read,https://medium.com/@jaafarbenabderrazak.info/ocr-with-tesseract-opencv-and-python-d2c4ec097866
+rd_19,Extracting Data from PDF File Using Python and R,medium,Python,Interesting,Read,https://medium.com/towards-artificial-intelligence/extracting-data-from-pdf-file-using-python-and-r-4ed8826bc5a1
+rd_20,Can a Convolutional Neural Network diagnose COVID-19 from lungs CT scans?,towardsdatascience,Computer vision,Interesting,Read,https://towardsdatascience.com/can-a-convolutional-neural-network-diagnose-covid-19-from-lungs-ct-scans-4294e29b72b
+wt_2,Ruk Jaana Nahin,youtube,Entertainment,Interesting,Watch,https://www.youtube.com/watch?v=2PsyNrtQjdU
+rd_21,Should you use FastAI?,medium,fastAI,Interesting,Read,https://medium.com/deeplearningbrasilia/should-you-use-fastai-7ce994de67d0
+rd_22,Using Optuna to Optimize PyTorch Hyperparameters,medium,Pytorch,Extremely Interesting,Read,https://medium.com/pytorch/using-optuna-to-optimize-pytorch-hyperparameters-990607385e36
+rd_23,Introduction to U-Net and Res-Net for Image Segmentation,towardsdatascience,Image segmentation,Very interesting,Read,https://towardsdatascience.com/introduction-to-u-net-and-res-net-for-image-segmentation-9afcb432ee2f
+rd_24,AI in Finance: advanced idea research and evaluation beyond backtests,medium,algo trading,Interesting,Read,https://medium.com/swlh/ai-in-finance-advanced-idea-research-and-evaluation-beyond-backtests-d4d7bb185854
+rd_25,Federated Learning for Medical AI,medium,Deep learning,Very interesting,Read,https://medium.com/deeptek/federated-learning-for-medical-ai-65d0daeafe8b
+rd_26,A gentle introduction to OCR,towardsdatascience,OCR,Extremely Interesting,Read,https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa
+rd_27,STN-OCR: A single Neural Network for Text Detection and Text Recognition,medium,Ocr,Extremely Interesting,Read,https://medium.com/syncedreview/stn-ocr-a-single-neural-network-for-text-detection-and-text-recognition-220debe6ded4
+rd_28,End to End Text OCR using Deep-Learning,towardsdatascience,Ocr,Extremely Interesting,Read,https://towardsdatascience.com/deep-learning-based-ocr-for-text-in-the-wild-efe4e67b78e4
+rd_29,Training Tesseract OCR for a New Font and Input Set on Mac,medium,Ocr,Extremely Interesting,Read,https://medium.com/@sathishvj/training-tesseract-ocr-for-a-new-font-and-input-set-on-mac-7622478cd3a1
+rd_30,New OCR Dataset for Mobile Devices,medium,Ocr,Extremely Interesting,Read,https://medium.com/ai%C2%B3-theory-practice-business/new-ocr-dataset-for-mobile-devices-716e63967b4
+rd_31,OCR project [part1] simple introduction,medium,Ocr,Extremely Interesting,Read,https://medium.com/groceristar/ocr-project-part1-simple-introduction-ab7b64bf1864
+rd_32,Optical Character Recognition Using One-Shot Learning  RNN  and TensorFlow,medium,Ocr,Extremely Interesting,Read,https://medium.com/hackernoon/optical-character-recognition-using-one-shot-learning-rnn-and-tensorflow-4b8b0d08150b
+rd_33,Deep Learning-based Text Detection and Recognition in Research Lab,medium,Ocr,Interesting,Read,https://medium.com/brightlab-techblog/deep-learning-based-text-detection-and-recognition-in-research-lab-bb3d61797f16
+wt_3,Hands-on Satellite Imagery Analysis | Scipy 2019 Tutorial | Samapriya Roy  Sara Safavi,youtube,Image processingas,Extremely Interesting,Watch,https://www.youtube.com/watch?v=j15MryznWn4
+wt_4,Image Analysis in Python with SciPy and Scikit Image | Scipy 2019 Tutorial | Nunez-Iglesias,youtube,Image processingas,Very interesting,Watch,https://www.youtube.com/watch?v=d1CIV9irQAY
+wt_5,Skorch: A Union of Scikit learn and PyTorch | SciPy 2019 | Thomas Fan,youtube,Pytorch,Extremely Interesting,Watch,https://www.youtube.com/watch?v=0J7FaLk0bmQ
+wt_6,Python in Seismology at the National Earthquake Information Center | SciPy 2019 | Hearne,youtube,Python,Very interesting,Watch,https://www.youtube.com/watch?v=YxG4hriA9AM
+wt_7,Intro to Bayesian Model Evaluation  Visualization  & Comparison Using ArviZ | SciPy 2019 Tutorial |,youtube,Bayesian nn,Extremely Interesting,Watch,https://www.youtube.com/watch?v=bmWMdVQlzIA
+wt_8,Intermediate Methods for Geospatial Data Analysis | SciPy 2019 Tutorial | Serge Rey  Levi Wolf,youtube,Image processingas,Extremely Interesting,Watch,https://www.youtube.com/watch?v=fc1f4MNLzdQ
+wt_9,Using SatPy to Process Earth observing Satellite Data | SciPy 2019 Tutorial | David Hoese,youtube,Image processingas,Extremely Interesting,Watch,https://www.youtube.com/watch?v=t4a_NrHy7NA
+wt_10,Modern Time Series Analysis | SciPy 2019 Tutorial | Aileen Nielsen,youtube,time series,Very interesting,Watch,https://www.youtube.com/watch?v=v5ijNXvlC5A
+wt_11,Bayesian Statistics Made Simple | Scipy 2019 Tutorial | Allen Downey,youtube,Bayesian nn,Extremely Interesting,Watch,https://www.youtube.com/watch?v=-X0BiV9n_fQ
+wt_12,Introduction to Geospatial Data Analysis with Python | SciPy 2018 Tutorial | Serge Rey,youtube,Image processingas,Very interesting,Watch,https://www.youtube.com/watch?v=kJXUUO5M4ok
+rd_34,Text Segmentation,medium,Ocr,Extremely Interesting,Read,https://medium.com/@arthurflor23/text-segmentation-b32503ef2613
+rd_35,T5 Text-to-Text Transformer: A Brief Paper Analysis,towardsdatascience,Nlp,Very interesting,Read,https://towardsdatascience.com/t5-text-to-text-transformer-a-brief-paper-analysis-e4bba797bd68
+rd_36,Introduction to Captum — A model interpretability library for PyTorch,medium,Pytorch,Very interesting,Read,https://medium.com/pytorch/introduction-to-captum-a-model-interpretability-library-for-pytorch-d236592d8afa
+rd_37,Review: Attention U-Net — Learning Where to Look for the Pancreas (Biomedical Image Segmentation),medium,Image segmentation,Interesting,Read,https://medium.com/@sh.tsang/review-attention-u-net-learning-where-to-look-for-the-pancreas-biomedical-image-segmentation-e5f4699daf9f
+rd_38,Training Yolo for Object Detection in PyTorch with Your Custom Dataset — The Simple Way,towardsdatascience,Pytorch,Very interesting,Read,https://towardsdatascience.com/training-yolo-for-object-detection-in-pytorch-with-your-custom-dataset-the-simple-way-1aa6f56cf7d9
+rd_39,Object Recognition with Google’s Convolutional Neural Networks,medium,Object detection,Interesting,Read,https://medium.com/@williamkoehrsen/object-recognition-with-googles-convolutional-neural-networks-2fe65657ff90
+rd_40,Defining the P-Value for Everyone,towardsdatascience,stats,Interesting,Read,https://towardsdatascience.com/defining-the-p-value-for-everyone-9103130f4fc2
+wt_13,MIDL2018  Day 2:Attention Unet Presentation by Ozan Oktay,youtube,Deep learning,Extremely Interesting,Watch,https://www.youtube.com/watch?v=Q7TWESLN5iY
+wt_14,A Probabilistic U-Net for Segmentation of Ambiguous Images,youtube,Deep learning,Extremely Interesting,Watch,https://www.youtube.com/watch?v=-cfFxQWfFrA
+rd_41,An introduction to Attention,towardsdatascience,Attention,Extremely Interesting,Read,https://towardsdatascience.com/an-introduction-to-attention-transformers-and-bert-part-1-da0e838c7cda
+rd_42,GAN — Self-Attention Generative Adversarial Networks (SAGAN),medium,Gan,Interesting,Read,https://medium.com/@jonathan_hui/gan-self-attention-generative-adversarial-networks-sagan-923fccde790c
+rd_43,A Practical Implementation of the Faster R-CNN Algorithm for Object Detection (Part 2 — with Python codes),medium,Image segmentation,Very interesting,Read,https://medium.com/analytics-vidhya/a-practical-implementation-of-the-faster-r-cnn-algorithm-for-object-detection-part-2-with-cac45dada619
+rd_44,GANs with Attention,towardsdatascience,Gan,Extremely Interesting,Read,https://towardsdatascience.com/gans-with-attention-3b90802921af
+rd_45,Tutorial on implementing YOLO v3 from scratch in PyTorch: Part 1,medium,Pytorch,Interesting,Read,https://medium.com/paperspace/tutorial-on-implementing-yolo-v3-from-scratch-in-pytorch-part-1-a0054d38ec78
+rd_46,Attention Seq2Seq with PyTorch: learning to invert a sequence,towardsdatascience,Attention,Interesting,Read,https://towardsdatascience.com/attention-seq2seq-with-pytorch-learning-to-invert-a-sequence-34faf4133e53
+rd_47,Seq2seq pay Attention to Self Attention: Part 2,medium,Attention,Interesting,Read,https://medium.com/@bgg/seq2seq-pay-attention-to-self-attention-part-2-cf81bf32c73d
+rd_48,Understanding Attention Mechanism,medium,Attention,Interesting,Read,https://medium.com/@shashank7.iitd/understanding-attention-mechanism-35ff53fc328e
+rd_49,Link Prediction in Social Networks…,medium,graphs ,Interesting,Read,https://medium.com/@gorerohan15/link-prediction-in-social-networks-599e6d9bed9b
+rd_50,Dive head first into advanced GANs: exploring self-attention and spectral norm,medium,Gan,Very interesting,Read,https://medium.com/free-code-camp/dive-head-first-into-advanced-gans-exploring-self-attention-and-spectral-norm-d2f7cdb55ede
+rd_51,Neural Translation Model with Attention,medium,Attention,Extremely Interesting,Read,https://medium.com/datadriveninvestor/neural-translation-model-95277838d17d
+rd_52,Medical Imaging Analysis using PyTorch,medium,Image segmentation,Interesting,Read,https://medium.com/dair-ai/medical-imaging-analysis-mri-cnn-pytorch-4877e64e7303
+rd_53,Review: RetinaNet — Focal Loss (Object Detection),towardsdatascience,Object detection,Interesting,Read,https://towardsdatascience.com/review-retinanet-focal-loss-object-detection-38fba6afabe4
+rd_54,Review: DeepMask (Instance Segmentation),towardsdatascience,Image segmentation,Interesting,Read,https://towardsdatascience.com/review-deepmask-instance-segmentation-30327a072339
+rd_55,Practical guide to Attention mechanism for NLU tasks,towardsdatascience,Attention,Extremely Interesting,Read,https://towardsdatascience.com/practical-guide-to-attention-mechanism-for-nlu-tasks-ccc47be8d500
+rd_56,Implementing Attention Models in PyTorch,medium,Attention,Interesting,Read,https://medium.com/intel-student-ambassadors/implementing-attention-models-in-pytorch-f947034b3e66
+rd_57,Learn to Pay Attention! Trainable Visual Attention in CNNs,towardsdatascience,Attention,Interesting,Read,https://towardsdatascience.com/learn-to-pay-attention-trainable-visual-attention-in-cnns-87e2869f89f1
+rd_58,Build a Chatbot by Seq2Seq and attention in Pytorch V1,chatbotslife,Attention,Interesting,Read,https://chatbotslife.com/build-a-chatbot-by-seq2seq-and-attention-in-pytorch-v1-3cb296dd2a41
+wt_15,Recurrent Models of Visual Attention | TDLS,youtube,Attention,Extremely Interesting,Watch,https://www.youtube.com/watch?v=kcLuHWrn-t0
+rd_59,Building a Question-Answering System from Scratch— Part 1,towardsdatascience,Nlp,Interesting,Read,https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507
+rd_60,Estimating Probabilities with Bayesian Modeling in Python,towardsdatascience,Bayesian nn,Interesting,Read,https://towardsdatascience.com/estimating-probabilities-with-bayesian-modeling-in-python-7144be007815
+rd_61,Transfer Learning with Convolutional Neural Networks in PyTorch,towardsdatascience,Pytorch,Interesting,Read,https://towardsdatascience.com/transfer-learning-with-convolutional-neural-networks-in-pytorch-dd09190245ce
+rd_62,Satellite Imagery Analysis with Python,medium,Image processingas,Interesting,Read,https://medium.com/analytics-vidhya/satellite-imagery-analysis-with-python-3f8ccf8a7c32
+rd_63,Bayesian Linear Regression in Python: Using Machine Learning to Predict Student Grades Part 1,towardsdatascience,Bayesian nn,Interesting,Read,https://towardsdatascience.com/bayesian-linear-regression-in-python-using-machine-learning-to-predict-student-grades-part-1-7d0ad817fca5
+rd_64,Attention and its Different Forms,towardsdatascience,Attention,Interesting,Read,https://towardsdatascience.com/attention-and-its-different-forms-7fc3674d14dc
+rd_65,Medical Image Analysis using probabilistic layers and Grad-Cam,towardsdatascience,Bayesian nn,Interesting,Read,https://towardsdatascience.com/medical-image-analysis-using-probabilistic-layers-and-grad-cam-42cc0118711f
+rd_66,Biomedical Image Segmentation: UNet++,towardsdatascience,Deep learning,Interesting,Read,https://towardsdatascience.com/biomedical-image-segmentation-unet-991d075a3a4b
+rd_67,Attention Mechanism in Deep Learning : Simplified,medium,Attention,Interesting,Read,https://medium.com/@prakhargannu/attention-mechanism-in-deep-learning-simplified-d6a5830a079d
+rd_68,Simple abstractive text summarization with pretrained T5 — Text-To-Text Transfer Transformer,towardsdatascience,Pytorch,Extremely Interesting,Read,https://towardsdatascience.com/simple-abstractive-text-summarization-with-pretrained-t5-text-to-text-transfer-transformer-10f6d602c426
+rd_69,Review: UNet++ — A Nested U-Net Architecture (Biomedical Image Segmentation),medium,Image segmentation,Interesting,Read,https://medium.com/@sh.tsang/review-unet-a-nested-u-net-architecture-biomedical-image-segmentation-57be56859b20
+wt_16,DLCV D4L6: Attention Models (Amaia Salvador  UPC 2016),youtube,Attention,Interesting,Watch,https://www.youtube.com/watch?v=omHLeV1aicw
+wt_17,Algorithmic Trading Strategy Using Python,youtube,Algo trading,Interesting,Watch,https://www.youtube.com/watch?v=SEQbb8w7VTw
+rd_70,Building a Financial Document Understanding Platform,medium,Deep learning,Extremely Interesting,Read,https://medium.com/blueprint-by-intuit/building-a-financial-document-understanding-platform-9e42f7d497c
+rd_71,The Right Loss Function [PyTorch],medium,Pytorch,Interesting,Read,https://medium.com/@hmrishavbandyopadhyay/the-right-loss-function-pytorch-58d2c0d77404
+rd_72,Better Policy-Making Through AI. Case Study: Stop Covering-up Sexual Abusers.,medium,Machine learing,Interesting,Read,https://medium.com/omdena/better-policy-making-through-ai-case-study-stop-hiding-sexual-abusers-a540e0d6b24e
+rd_73,The Most Important Statistical Test,towardsdatascience,statistical test,Interesting,Read,https://towardsdatascience.com/the-most-important-statistical-test-dee01f4d50cf
+rd_74,Understanding Deep Self-attention Mechanism in Convolution Neural Networks,medium,Pytorch,Extremely Interesting,Read,https://medium.com/datadriveninvestor/understanding-deep-self-attention-mechanism-in-convolution-neural-networks-e8f9c01cb251
+rd_75,FickleNet,towardsdatascience,Image segmentation,Interesting,Read,https://towardsdatascience.com/ficklenet-weakly-and-semi-supervised-semantic-image-segmentation-using-stochastic-inference-5d0e11e624b2
+rd_76,Implementation of Decentralized Data Quality,towardsdatascience,DQ,Interesting,Read,https://towardsdatascience.com/implementation-of-decentralized-data-quality-a-viewpoint-shift-from-data-quality-to-collaborative-49befe77420a
+rd_77,Building a Social Network from the News using Graph Theory,towardsdatascience,Graphs,Extremely Interesting,Read,https://towardsdatascience.com/building-a-social-network-from-the-news-using-graph-theory-by-marcell-ferencz-9155d314e77f
+rd_78,Debugging Neural Networks with PyTorch and W&B,towardsdatascience,Pytorch,Interesting,Read,https://towardsdatascience.com/debugging-neural-networks-with-pytorch-and-w-b-2e20667baf72
+rd_79,7 Tips To Maximize PyTorch Performance,towardsdatascience,Pytorch,Interesting,Read,https://towardsdatascience.com/7-tips-for-squeezing-maximum-performance-from-pytorch-ca4a40951259
+rd_80,Best Deals in Deep Learning Cloud Providers,towardsdatascience,GPU,Interesting,Read,https://towardsdatascience.com/maximize-your-gpu-dollars-a9133f4e546a
+rd_81,Discovering the Keys to Solving for Data Quality Analysis in Streaming Time Series Datasets,medium,Dq,Interesting,Read,https://medium.com/hashmapinc/discovering-the-keys-to-solving-for-data-quality-analysis-in-streaming-time-series-datasets-8d8780fa7ecb
+rd_82,Deep Learning Models For Medical Image Analysis And Processing,medium,Image segmentation,Interesting,Read,https://medium.com/the-research-nest/deep-learning-models-for-medical-image-analysis-and-processing-a4f8ba58e58f
+rd_83,German Credit Risk Classification : modeling and metrics,medium,Machine learing,Interesting,Read,https://medium.com/@adam.hajjej.ah/german-credit-risk-classification-modeling-and-metrics-19182b87f060
+rd_84,Responsible AI: Interpret-Text with the Unified Information Explainer,medium,Nlp,Interesting,Read,https://medium.com/@evepardi/responsible-ai-interpret-text-unified-information-explainer-9dbf3c839ce8
+rd_85,Introducing Label Studio  a swiss army knife of data labeling,towardsdatascience,Object detection,Interesting,Read,https://towardsdatascience.com/introducing-label-studio-a-swiss-army-knife-of-data-labeling-140c1be92881
+rd_86,YOLO v4: Optimal Speed & Accuracy for object detection,towardsdatascience,Object detection,Interesting,Read,https://towardsdatascience.com/yolo-v4-optimal-speed-accuracy-for-object-detection-79896ed47b50
+rd_87,Facebook Research Open Sourced Three New Frameworks to Make Deep Learning Research Easier,towardsdatascience,Pytorch,Interesting,Read,https://towardsdatascience.com/facebook-research-open-sourced-three-new-frameworks-to-make-deep-learning-research-easier-2569319ef874
+rd_88,Understanding ACGANs with code[PyTorch],towardsdatascience,Pytorch,Extremely Interesting,Read,https://towardsdatascience.com/understanding-acgans-with-code-pytorch-2de35e05d3e4
+rd_89,Space Science With Python,towardsdatascience,Python,Extremely Interesting,Read,https://towardsdatascience.com/tagged/space-science-with-python
+rd_90,How To Make Money  Using Web Scraping,towardsdatascience,web scraping,Interesting,Read,https://towardsdatascience.com/how-to-make-money-using-web-scraping-662f1c3da050
+rd_91,Image Captioning using Attention Mechanism,medium,Attention,Interesting,Read,https://medium.com/swlh/image-captioning-using-attention-mechanism-f3d7fc96eb0e
+rd_92,Better Policy-Making Through AI. Case Study: Stop Covering-up Sexual Abusers.,medium,Deep learning,Extremely Interesting,Read,https://medium.com/omdena/better-policy-making-through-ai-case-study-stop-hiding-sexual-abusers-a540e0d6b24e
+rd_93,The Fusion of Deep Learning and Combinatorics,towardsdatascience,Deep learning,Interesting,Read,https://towardsdatascience.com/the-fusion-of-deep-learning-and-combinatorics-4d0112a74fa7
+rd_94,The Next Level of Data Visualization in Python,towardsdatascience,viz,Interesting,Read,https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e
+rd_95,Nucleus Segmentation using U-Net,towardsdatascience,Image segmentation,Interesting,Read,https://towardsdatascience.com/nucleus-segmentation-using-u-net-eceb14a9ced4
+rd_96,Bayesian Convolutional Neural Networks with Bayes by Backprop,medium,Bayesian nn,Interesting,Read,https://medium.com/neuralspace/bayesian-convolutional-neural-networks-with-bayes-by-backprop-c84dcaaf086e
+rd_97,Face recognition and OCR processing of 300 million records from US yearbooks,medium,Ocr,Interesting,Read,https://medium.com/myheritage-engineering/face-recognition-and-ocr-processing-of-300-million-records-from-us-yearbooks-a95d55c6ac58
+rd_98,Satellite imagery access and analysis in Python & Jupyter notebooks,towardsdatascience,Image processingas,Interesting,Read,https://towardsdatascience.com/satellite-imagery-access-and-analysis-in-python-jupyter-notebooks-387971ece84b
+rd_99,Rocking Hyperparameter Tuning with PyTorch’s Ax Package,towardsdatascience,Pytorch,Interesting,Read,https://towardsdatascience.com/rocking-hyperparameter-tuning-with-pytorchs-ax-package-1c2dd79f2948
+rd_100,4 Simple steps in building OCR,medium,Ocr,Extremely Interesting,Read,https://medium.com/datadriveninvestor/4-simple-steps-in-building-ocr-1f41c66099c1
+rd_101,Google maps and ISS location with python,medium,Image processingas,Interesting,Read,https://medium.com/@Tobi_olabode/google-maps-and-iss-location-with-python-fdaa2116a124
+rd_102,5 Smooth Python Web-Frameworks For The Modern Developer,towardsdatascience,Python,Interesting,Read,https://towardsdatascience.com/5-smooth-python-web-frameworks-for-the-modern-developer-47db692dfd52
+rd_103,Catalyst 101 — Accelerated PyTorch,medium,Pytorch,Interesting,Read,https://medium.com/pytorch/catalyst-101-accelerated-pytorch-bd766a556d92
+wt_18,Online Store E-commerce Responsive Website Using HTML/CSS,youtube,web site design,Interesting,Watch,https://www.youtube.com/watch?v=36jRXMsIFuA
+wt_19,Build an Ecommerce Website with Django // Part 1 - Setup and project configuration,youtube,Category,Interesting,Watch,https://www.youtube.com/watch?v=z4USlooVXG0&list=PLLRM7ROnmA9F2vBXypzzplFjcHUaKWWP5&index=1
+wt_20,How to build an e-commerce store | front-end development tutorial,youtube,Web site design,Interesting,Watch,https://www.youtube.com/watch?v=DsUY7ZbVkgY
+wt_21,Ecommerce Website Design | Complete Ecommerce Website Tutorial (UI) HTML CSS JAVASCRIPT,youtube,Web site design,Interesting,Watch,https://www.youtube.com/watch?v=U6heVF_yclc
+wt_22,Complete Portfolio Website with Bootstrap - HTML/CSS,youtube,Web site design,Interesting,Watch,https://www.youtube.com/watch?v=dgKSqz3it50
+wt_23,Complete Portfolio Website With Side Menu - Bootstrap 4,youtube,Web site design,Interesting,Watch,https://www.youtube.com/watch?v=3kdX-P8JZyc
+wt_24,Complete Responsive Blooger Website Using HTML/CSS,youtube,Web site design,Interesting,Watch,https://www.youtube.com/watch?v=CrSC1ZA9j0M
+wt_25,Make Responsive Web Design with HTML/CSS,youtube,Web site design,Interesting,Watch,https://www.youtube.com/watch?v=R8IDaR05DC4
+wt_26,Drive Car Using CSS - Moving Car CSS Animation Using HTML/CSS/JavaScript,youtube,Web site design,Interesting,Watch,https://www.youtube.com/watch?v=Eh3kt0Xqea0
+wt_27,Advanced Login with Carousel Using HTML/CSS,youtube,Web site design,Interesting,Watch,https://www.youtube.com/watch?v=nwmW9oHNmZ8
+wt_28,Responsive Bootstrap Website Start to Finish with Bootstrap 4.1.2  HTML5 & CSS3 From Scratch,youtube,Web site design,Interesting,Watch,https://www.youtube.com/watch?v=k8ioDxSEjZU
+wt_29,Learn Electron in Less than 60 Minutes - Free Beginner's Course,youtube,Web site design,Interesting,Watch,https://www.youtube.com/watch?v=2RxHQoiDctI
+wt_30,The 2019 Frontend Developer Crash Course - HTML & CSS Tutorial for Beginners,youtube,Web site design,Interesting,Watch,https://www.youtube.com/watch?v=8gNrZ4lAnAw
+wt_31,The 2020 UI Design Fundamentals Crash Course (INTERACTIVE),youtube,Web site design,Interesting,Watch,https://www.youtube.com/watch?v=tRpoI6vkqLs
+wt_32,The 2020 HTML & CSS Crash Course - From Mockup to Product,youtube,Web site design,Interesting,Watch,https://www.youtube.com/watch?v=Ly6pm8UxZU4
+rd_104,Flutter Package Ecosystem Update,medium,Flutter,Interesting,Read,https://medium.com/flutter/flutter-package-ecosystem-update-d50645f2d7bc
+rd_105,The Shadow of a Celestial Dance,medium,Image processingas,Interesting,Read,https://medium.com/sentinel-hub/the-shadow-of-a-celestial-dance-90968f1f42fb
+rd_106,Environmental Anomaly Detection as a Result of Climate Change,medium,Anomaly detection,Interesting,Read,https://medium.com/omdena/environmental-anomaly-detection-as-a-result-of-climate-change-using-satellite-images-34109977c09d
+rd_107,Cheat Sheet for NLP: A Summary of My NLP Learning Journey So Far,towardsdatascience,Nlp,Interesting,Read,https://towardsdatascience.com/cheat-sheet-for-nlp-a-summary-of-my-nlp-learning-journey-thus-far-6ee753943890
+rd_108,How to Build Recommendation Models With MyAnimeList and Sklearn,medium,recommandation system,Interesting,Read,https://medium.com/better-programming/how-to-build-recommendation-models-with-myanimelist-and-sklearn-part-2-4802efba95cd
+rd_109,Deep Learning Tabular Data with PyTorch,towardsdatascience,Pytorch,Interesting,Read,https://towardsdatascience.com/deep-learning-using-pytorch-for-tabular-data-c68017d8b480
+rd_110,Why TikTok made its user so obsessive? The AI Algorithm that got you hooked.,towardsdatascience,Deep learning,Extremely Interesting,Read,https://towardsdatascience.com/why-tiktok-made-its-user-so-obsessive-the-ai-algorithm-that-got-you-hooked-7895bb1ab423
+rd_111,LexNLP — Library For Automated Text Extraction & NER,towardsdatascience,Nlp,Very interesting,Read,https://towardsdatascience.com/lexnlp-library-for-automated-text-extraction-ner-with-bafd0014a3f8
+rd_112,Sentinel-2 image clustering in python,towardsdatascience,Image processingas,Interesting,Read,https://towardsdatascience.com/sentinel-2-image-clustering-in-python-58f7f2c8a7f6
+wt_33,Building a Movie Recommendation Engine | Machine Learning Projects,youtube,Recommandation system,Interesting,Watch,https://www.youtube.com/watch?v=XoTwndOgXBM
+wt_34,Movie Recommender System using Python,youtube,Recommandation system,Interesting,Watch,https://www.youtube.com/watch?v=R64Lh1Qwl_0
+wt_35,Divya Sardana | Building Recommender Systems Using Python,youtube,Recommandation system,Interesting,Watch,https://www.youtube.com/watch?v=39vJRxIPSxw
+wt_36,Flutter Travel UI Tutorial | Apps From Scratch,youtube,Flutter,Interesting,Watch,https://www.youtube.com/watch?v=CSa6Ocyog4U
+wt_37,Django Sitemap Tutorial - Help Crawlers Understand Your Website! (2018),youtube,Python,Interesting,Watch,https://www.youtube.com/watch?v=xAXMqiPSY34
+rd_113,Python NLP Tutorial: Information Extraction and Knowledge Graphs,medium,Nlp,Interesting,Read,https://medium.com/swlh/python-nlp-tutorial-information-extraction-and-knowledge-graphs-43a2a4c4556c
+rd_114,Flutter for Desktop: Create and Run a Desktop Application,medium,Flutter,Interesting,Read,https://medium.com/flutter-community/flutter-for-desktop-create-and-run-a-desktop-application-ebeb1604f1e0
+rd_115,Simple  Powerful  and Fast— RegNet Architecture from Facebook AI Research,medium,Object detection,Interesting,Read,https://medium.com/visionwizard/simple-powerful-and-fast-regnet-architecture-from-facebook-ai-research-6bbc8818fb44
+rd_116,Recommendation System Series Part 6: The 6 Variants of Autoencoders for Collaborative Filtering,towardsdatascience,Recommandation system,Interesting,Read,https://towardsdatascience.com/recommendation-system-series-part-6-the-6-variants-of-autoencoders-for-collaborative-filtering-bd7b9eae2ec7
+rd_117,Introduction to Trend Filtering with Applications in Python,towardsdatascience,Time series,Interesting,Read,https://towardsdatascience.com/introduction-to-trend-filtering-with-applications-in-python-d69a58d23b2
+rd_118,Deep Learning OCR: Deep Learning Algorithm and Robotics Process Automation(RPA) to Extract and Automate Invoice Data,medium,Ocr,Interesting,Read,https://medium.com/@BhashkarKunal/deep-learning-ocr-deep-learning-algorithm-and-robotics-process-automation-rpa-to-extract-and-ea9d5d1b3ba0
+rd_119,From ContE to Entity Type Embeddings in Natural Language Processing,medium,Nlp,Interesting,Read,https://medium.com/towards-artificial-intelligence/from-conte-to-entity-type-embeddings-in-natural-language-processing-19e53db90dd5
+rd_120,Darts: Time Series Made Easy in Python,medium,Time series,Interesting,Read,https://medium.com/unit8-machine-learning-publication/darts-time-series-made-easy-in-python-5ac2947a8878
+rd_121,Whatsapp Group Chat Analysis using Python and Plotly,medium,Nlp,Interesting,Read,https://medium.com/towards-artificial-intelligence/whatsapp-group-chat-analysis-using-python-and-plotly-89bade2bc382
+rd_122,Bounding Box Prediction from Scratch using PyTorch,towardsdatascience,Object detection,Interesting,Read,https://towardsdatascience.com/bounding-box-prediction-from-scratch-using-pytorch-a8525da51ddc
+rd_123,MLDB is the Database Every Data Scientist Dreams Of,medium,Machine learing,Interesting,Read,https://medium.com/dataseries/mldb-is-the-database-every-data-scientist-dreams-of-395dfa53749e
+rd_124,Building a Microservice in Python,medium,Python,Interesting,Read,https://medium.com/@sonusharma.mnnit/building-a-microservice-in-python-ff009da83dac
+rd_125,Unsupervised NLP: How I Learned to Love the Data,medium,Python,Interesting,Read,https://medium.com/@ODSC/unsupervised-nlp-how-i-learned-to-love-the-data-1dde7dc4a3c1
+rd_126,Object Detection in X-ray Images,medium,Object detection,Interesting,Read,https://medium.com/sfu-cspmp/object-detection-in-x-ray-images-414a4fb06dff
+rd_127,Deep CV: Advanced Convolutional Layers,medium,Deep learning,Interesting,Read,https://medium.com/deep-learning-demystified/deep-cv-advanced-convolutional-layers-f358a7e4699f
+rd_128,Scaling Pandas: Comparing Dask  Ray  Modin  Vaex  and RAPIDS,towardsdatascience,Python,Interesting,Read,https://towardsdatascience.com/scaling-pandas-comparing-dask-ray-modin-vaex-and-rapids-c74c85a4e59c
+rd_129,Automatic Glossary and Definition Extraction from Text using Unsupervised Technique,medium,Nlp,Interesting,Read,https://medium.com/intel-student-ambassadors/automatic-glossary-and-definition-extraction-from-text-using-unsupervised-technique-cd066e462f8b
+rd_130,Program a simple Graph Net in PyTorch,towardsdatascience,Pytorch,Interesting,Read,https://towardsdatascience.com/program-a-simple-graph-net-in-pytorch-e00b500a642d
+rd_131,Using MALLET LDA to Learn Why Players Hate Pokémon Sword /Shield,towardsdatascience,Nlp,Interesting,Read,https://towardsdatascience.com/using-mallet-lda-to-learn-why-players-hate-pok%C3%A9mon-sword-shield-23b12e4fc395
+rd_132,Scraping Tables without Text,towardsdatascience,Pytorch,Interesting,Read,https://towardsdatascience.com/scraping-tables-without-text-881eb7ba12fc
+rd_133,How to build your own AI personal assistant using Python,towardsdatascience,Deep learning,Interesting,Read,https://towardsdatascience.com/how-to-build-your-own-ai-personal-assistant-using-python-f57247b4494b
+rd_134,Populating a Network Graph with Named-Entities,towardsdatascience,Nlp,Interesting,Read,https://towardsdatascience.com/populating-a-network-graph-with-named-entities-fb8e3d2a380f
+rd_135,Medieval urbanism: modelling city dynamics with Python,towardsdatascience,Python,Interesting,Read,https://towardsdatascience.com/medieval-urbanism-modelling-city-dynamics-with-python-3f835555976a
+rd_136,SIRENs — Implicit Neural Representations with Periodic Activation Functions,medium,Deep learning,Interesting,Read,https://medium.com/@sallyrobotics.blog/sirens-implicit-neural-representations-with-periodic-activation-functions-f425c7f710fa
+rd_137,Crowd Counting Using Bayesian Multi Scale Neural Networks,towardsdatascience,Deep learning,Interesting,Read,https://towardsdatascience.com/crowd-counting-using-bayesian-multi-scale-neural-networks-4e3d46cd048b
+rd_138,Forecasting in Python with ESRNN model,medium,Time series,Interesting,Read,https://medium.com/analytics-vidhya/forecasting-in-python-with-esrnn-model-75f7fae1d242
+rd_139,Building a Reverse Image Search AI using PyTorch,medium,Pytorch,Interesting,Read,https://medium.com/@vijayabhaskar96/fun-project-devise-on-pytorch-83eb09694d41
+rd_140,Character-To-Character RNN With Pytorch’s LSTMCell,medium,Seq2Seq,Interesting,Read,https://medium.com/coinmonks/character-to-character-rnn-with-pytorchs-lstmcell-cd923a6d0e72
+rd_141,Automatic Text Summarization Made Simple with Python,medium,Nlp,Interesting,Read,https://medium.com/luisfredgs/automatic-text-summarization-made-simple-with-python-f9c3c645e34a
+rd_142,Deep Learning Models for Automatic Summarization,towardsdatascience,Nlp,Interesting,Read,https://towardsdatascience.com/deep-learning-models-for-automatic-summarization-4c2b89f2a9ea
